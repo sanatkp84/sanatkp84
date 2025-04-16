@@ -19,9 +19,9 @@ I use these tools daily in my DevOps workflow — from writing IaC with Terrafor
 
 ## 🧠 Certifications :
 <p align="center">
-  <img src="aws-certified-cloud-practitioner.png" alt="CLF-C02" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="DVA-C02" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="DEA-C01" width="50"/>
+  <img src="aws-certified-cloud-practitioner.png" alt="CLF-C02" width="100"/>
+  <img src="aws-certified-developer-associate.png" alt="DVA-C02" width="100"/>
+  <img src="aws-certified-data-engineer-associate.png" alt="DEA-C01" width="100"/>
 </p>
 
 	•	✅ AWS Certified Cloud Practitioner
