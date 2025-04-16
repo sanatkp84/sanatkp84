@@ -1,16 +1,13 @@
 👋 Hi, I’m Sanat!
 
-Analyst at Deloitte 
-3x AWS Certified
-DevOps & Cloud Aficionado
-🎥 YouTuber @Grow With Sanat : AWS & DevOps Tutorials - Helping People to grow in their Life
+Analyst at Deloitte | 3x AWS Certified | DevOps & Cloud Aficionado | 🎥 YouTuber @Grow With Sanat : AWS & DevOps Tutorials - Helping People to grow in their Life
 
 
 ⸻
 
 🛠️ Tech Stack
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="50"/>
+  <img src="https://github.com/devicons/devicon/tree/v2.16.0/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50"/>
