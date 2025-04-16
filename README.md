@@ -1,6 +1,8 @@
 👋 Hi, I’m Sanat!
 
-🚀 Analyst at Deloitte | DevOps & Cloud Aficionado | 3x AWS Certified
+Analyst at Deloitte 
+3x AWS Certified
+DevOps & Cloud Aficionado
 🎥 YouTuber @Grow With Sanat : AWS & DevOps Tutorials - Helping People to grow in their Life
 
 
