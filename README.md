@@ -1,16 +1,44 @@
-## Hi there 👋
+👋 Hi, I’m Sanat!
 
-<!--
-**sanatkp84/sanatkp84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 DevOps & Cloud Enthusiast | AWS Certified
+🎥 YouTuber @ Grow With Sanat | 100 Days of Growth Journey
+🎯 Goal: 1 Lakh/month Job + 1 Lakh/month YouTube by 2027
 
-Here are some ideas to get you started:
+⸻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack
+
+I use these tools daily in my DevOps workflow — from writing IaC with Terraform to building CI/CD pipelines with Jenkins, managing containers with Docker, and deploying on AWS.
+
+⸻
+
+🔥 Currently Working On
+	•	AWS DevOps Projects & Hands-on Practice
+	•	Weekly YouTube videos (DevOps + Career Guidance)
+	•	Full Portfolio Setup (S3/GitHub Pages)
+
+⸻
+
+🧠 Certifications
+	•	✅ AWS Certified Cloud Practitioner
+	•	✅ AWS Developer Associate
+	•	✅ AWS Data Engineer Associate (Theory reviewed)
+
+⸻
+
+📈 GitHub Stats
+
+
+⸻
+
+📅 #100DaysOfMe (Self-Growth Series)
+
+I’ve started a personal challenge: 100 Days of Becoming My Best Version 💪
+I post daily shorts + long form videos on DevOps, mindset & progress.
+
+Catch me on:
+
+
+⸻
+
+🔊 “Why hustle alone, when you can Grow With Sanat?”
